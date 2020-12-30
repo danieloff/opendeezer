@@ -35,6 +35,8 @@ download or build the opendeezer.exe and *add it to the path*
 
 a pre-built windows 64 exe is available in the releases section of github
 
+https://github.com/danieloff/opendeezer/releases/download/0.1/opendeezer.exe
+
 - Close and restart the browser. If everything is configured correctly the system should now work
 
 right click on a deezer webpage with the extension installed and there should be an option to "Open in Deezer"
